@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When it invokes the TaskLists component, should render it properly 1`] = `
+<div>
+  <div
+    class="sc-dkPtRN gnGpTz"
+  >
+    <div
+      class="sc-bdvvtL iIcWDR"
+    >
+      <div
+        class="sc-gsDKAQ bEunUZ"
+        color="var(--orange)"
+      >
+        Pending
+      </div>
+    </div>
+    <div
+      class="sc-bdvvtL iIcWDR"
+    >
+      <div
+        class="sc-gsDKAQ dniuBu"
+        color="var(--green)"
+      >
+        Completed
+      </div>
+    </div>
+  </div>
+</div>
+`;
