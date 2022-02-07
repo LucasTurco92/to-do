@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When it invokes the Task component, should render it properly when isNew 1`] = `
+<div>
+  <div
+    class="sc-gsDKAQ kpVBXQ"
+  >
+    <div
+      class="sc-bdvvtL ivoDIz"
+    />
+    <input
+      class="sc-hKwDye jYfISF"
+      font-size="1em"
+    />
+  </div>
+</div>
+`;
+
+exports[`When it invokes the Task component, should render it properly when isNew is false 1`] = `
+<div>
+  <div
+    class="sc-gsDKAQ kpVBXQ"
+  >
+    <div
+      class="sc-bdvvtL ivoDIz"
+    />
+    <input
+      class="sc-hKwDye jYfISF"
+      font-size="1em"
+    />
+  </div>
+</div>
+`;

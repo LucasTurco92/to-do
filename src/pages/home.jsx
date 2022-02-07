@@ -1,13 +1,14 @@
 import React from "react";
 import Header from "../components/header/header";
-import TasksLists from '../components/taskLists/taskLists';
+import TasksList from '../components/taskList/taskList';
+import {ToDoProvider} from "../hooks/toDoContext";
 const Home = () =>{
     
     return (
-        <div>
+        <ToDoProvider>
             <Header title="To-Do"/>
-            <TasksLists/>
-        </div>
+            <TasksList/>
+        </ToDoProvider>
     )
 
 }

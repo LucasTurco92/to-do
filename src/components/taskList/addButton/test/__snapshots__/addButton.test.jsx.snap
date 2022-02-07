@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When it invokes the AddButton component, should render it properly 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL kiJhim"
+  >
+    <span
+      class="sc-gsDKAQ bGJtoD"
+    >
+      +
+    </span>
+  </div>
+</div>
+`;

@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When it invokes the TaskLists component, should render it properly 1`] = `
+<div>
+  <div
+    class="sc-gKclnd byIjeh"
+  >
+    <div
+      class="sc-eCImPb jBbsck"
+    >
+      <span
+        class="sc-jRQBWg gQBMlz"
+      >
+        +
+      </span>
+    </div>
+  </div>
+</div>
+`;

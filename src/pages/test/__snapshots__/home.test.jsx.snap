@@ -2,42 +2,29 @@
 
 exports[`When it invokes the home page, should render it properly 1`] = `
 <div>
-  <div>
-    <div
-      class="sc-bdvvtL bwusyA"
+  <div
+    class="sc-bdvvtL eVLpMw"
+  >
+    <img
+      src="logo192.png"
+    />
+    <span
+      class="sc-gsDKAQ ikgMXT"
     >
-      <img
-        src="logo192.png"
-      />
+      To-Do
+    </span>
+  </div>
+  <div
+    class="sc-furwcr jLYsIH"
+  >
+    <div
+      class="sc-gKclnd krsbMJ"
+    >
       <span
-        class="sc-gsDKAQ ioyFhy"
+        class="sc-iCfMLu gGWsLY"
       >
-        To-Do
+        +
       </span>
-    </div>
-    <div
-      class="sc-eCImPb fGXFeQ"
-    >
-      <div
-        class="sc-dkPtRN iLgXIo"
-      >
-        <div
-          class="sc-hKwDye idgETy"
-          color="var(--orange)"
-        >
-          Pending
-        </div>
-      </div>
-      <div
-        class="sc-dkPtRN iLgXIo"
-      >
-        <div
-          class="sc-hKwDye fnBAbJ"
-          color="var(--green)"
-        >
-          Completed
-        </div>
-      </div>
     </div>
   </div>
 </div>

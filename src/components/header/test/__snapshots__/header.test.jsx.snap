@@ -3,13 +3,13 @@
 exports[`When it invokes the header component, should render it properly 1`] = `
 <div>
   <div
-    class="sc-bdvvtL bwusyA"
+    class="sc-bdvvtL eVLpMw"
   >
     <img
       src="logo192.png"
     />
     <span
-      class="sc-gsDKAQ ioyFhy"
+      class="sc-gsDKAQ ikgMXT"
     />
   </div>
 </div>
